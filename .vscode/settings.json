@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "path/to/python",
+    "java.home": "path/to/jdk",
+    "go.gopath": "path/to/go",
+    "php.executablePath": "path/to/php",
+    "rust-client.rustupPath": "path/to/rustup",
+    "dart.sdkPath": "path/to/dart-sdk",
+    "eslint.enable": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}
